@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Wener](http://wener.me/) here, ordinary programmer with some passion, family lover, daughter's servant.
+[Wener](http://wener.me/) here.
 
+- 💻
+- 👧's 👨
+- ☕️ 🍵
