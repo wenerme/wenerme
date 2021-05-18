@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <a align="right"  href="https://github.com/wenerme/">
-  <img align="right"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenerme&show_icons=true" />
+  <img align="right"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenerme&langs_count=6" />
 </a>
 
 [Wener](http://wener.me/) here.
@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 
 <p align="right">
   <a href="https://github.com/wenerme/">
-    <img src="https://github-readme-stats.vercel.app/api?username=wenerme&include_all_commits=true&show_icons=true&bg_color=232627&text_color=ffffd7&icon_color=af5f5f&title_color=ff557f" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wenerme&include_all_commits=true&show_icons=true&bg_color=232627&text_color=ffffd7&icon_color=af5f5f&title_color=ff557f&count_private=true" />
   </a>
 </p>     
-
 
