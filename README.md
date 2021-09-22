@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 [Wener](http://wener.me/) here.
 
 - 💻
-- 👧's 👨
+- 👩🏻's 🧑🏻
+- 👧🏻's 🧑🏻
 - ☕️ 🍵
 
 <p align="right">
